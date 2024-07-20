@@ -80,3 +80,18 @@ We welcome contributions to improve this project! Please follow these steps to c
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a Pull Request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- The datasets used in this project were obtained from [Kaggle](https://www.kaggle.com).
+- Inspiration and resources from various online tutorials and documentation.
+
+## Contact
+
+For any questions or suggestions, please feel free to contact the project maintainer.
+
+---
