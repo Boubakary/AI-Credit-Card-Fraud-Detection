@@ -87,7 +87,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- The datasets used in this project were obtained from [Kaggle](https://www.kaggle.com).
+- The datasets used in this project were obtained from [Kaggle]([https://www.kaggle.com](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)). 
 - Inspiration and resources from various online tutorials and documentation.
 
 ## Contact
