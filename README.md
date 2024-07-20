@@ -5,7 +5,6 @@
 This project aims to develop a machine learning model to detect fraudulent credit card transactions. By analyzing transaction data and implementing various classification algorithms, we strive to identify fraudulent activities accurately and efficiently.
 
 ## Project Structure
-
 AI-Credit-Card-Fraud-Detection/
 ├── data/
 │   └── .gitkeep
