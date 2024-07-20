@@ -6,7 +6,9 @@ This project aims to develop a machine learning model to detect fraudulent credi
 
 ## Project Structure
 AI-Credit-Card-Fraud-Detection/
-<img width="543" alt="Screenshot 2023-07-15 at 14 41 19" src="https://github.com/user-attachments/assets/adf8696e-6787-430d-b868-2d4bf63570a1">
+
+<img width="344" alt="Screenshot 2024-07-20 at 17 34 59" src="https://github.com/user-attachments/assets/10dd35e8-f65a-48fe-8dfe-5434c2d745fa">
+
 
 
 - `data/`: Store raw and processed data files.
