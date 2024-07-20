@@ -4,14 +4,10 @@
 
 This project aims to develop a machine learning model to detect fraudulent credit card transactions. By analyzing transaction data and implementing various classification algorithms, we strive to identify fraudulent activities accurately and efficiently.
 
-[Dataset Link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) 
-
 ## Project Structure
 AI-Credit-Card-Fraud-Detection/
 
 <img width="344" alt="Screenshot 2024-07-20 at 17 34 59" src="https://github.com/user-attachments/assets/10dd35e8-f65a-48fe-8dfe-5434c2d745fa">
-
-
 
 - `data/`: Store raw and processed data files.
 - `notebooks/`: Keep Jupyter notebooks for data exploration, model training, and evaluation.
@@ -39,6 +35,20 @@ To set up this project locally, follow these steps:
     ```sh
     pip install -r requirements.txt
     ```
+## Dataset
+
+The dataset used in this project is crucial for training and evaluating the machine learning models. Here is how you can handle the dataset:
+
+1. **Download the Dataset**:
+   - The dataset can be downloaded [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). Ensure you have the appropriate permissions to use and share the data.
+
+2. **Store the Dataset**:
+   - Place the downloaded dataset in the `data/raw/` directory. For example:
+     ```
+     AI-Credit-Card-Fraud-Detection/data/raw/dataset.csv
+     ```
+3. **Dataset Format**:
+   - Ensure the dataset is in CSV format or any other format that can be easily loaded using pandas or similar libraries.
 
 ## Usage
 
@@ -47,6 +57,7 @@ To set up this project locally, follow these steps:
      ```sh
      python scripts/data_preprocessing.py
      ```
+     - The processed data will be saved in the `data/processed/` directory.
 
 2. **Exploratory Data Analysis**:
    - Use the notebooks in the `notebooks/` directory to explore and visualize the data.
