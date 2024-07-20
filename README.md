@@ -4,6 +4,8 @@
 
 This project aims to develop a machine learning model to detect fraudulent credit card transactions. By analyzing transaction data and implementing various classification algorithms, we strive to identify fraudulent activities accurately and efficiently.
 
+[Dataset Link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) 
+
 ## Project Structure
 AI-Credit-Card-Fraud-Detection/
 
