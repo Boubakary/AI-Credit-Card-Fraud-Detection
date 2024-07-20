@@ -6,23 +6,8 @@ This project aims to develop a machine learning model to detect fraudulent credi
 
 ## Project Structure
 AI-Credit-Card-Fraud-Detection/
-├── data/
-│   └── .gitkeep
-├── notebooks/
-│   └── .gitkeep
-├── scripts/
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   └── utils.py
-├── models/
-│   └── .gitkeep
-├── reports/
-│   ├── figures/
-│   └── results.md
-├── README.md
-├── requirements.txt
-├── .gitignore
-└── venv/
+<img width="543" alt="Screenshot 2023-07-15 at 14 41 19" src="https://github.com/user-attachments/assets/adf8696e-6787-430d-b868-2d4bf63570a1">
+
 
 - `data/`: Store raw and processed data files.
 - `notebooks/`: Keep Jupyter notebooks for data exploration, model training, and evaluation.
