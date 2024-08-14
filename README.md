@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to develop a machine learning model to detect fraudulent credit card transactions. By analyzing transaction data and implementing various classification algorithms, we strive to identify fraudulent activities accurately and efficiently.
+Detecting fraudulent credit card transactions is a crucial task in financial systems to prevent financial losses and protect customers. This project aims to develop a machine learning model to accurately identify fraudulent transactions based on a dataset of past credit card transactions. By leveraging the power of AI, we aim to create a model that can distinguish between legitimate and fraudulent transactions with high accuracy, thereby enhancing the security measures of financial institutions.
 
 ## Project Structure
 AI-Credit-Card-Fraud-Detection/
